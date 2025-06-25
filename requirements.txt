@@ -14,3 +14,4 @@ shapely
 openrouteservice
 streamlit-option-menu
 imbalanced-learn
+xgboost
