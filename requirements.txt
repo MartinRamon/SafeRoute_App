@@ -2,8 +2,8 @@ streamlit==1.26.0
 pandas==2.2.2
 numpy==1.26.4
 joblib
-statsmodels
-scipy
+statsmodels==0.14.0
+scipy==1.11.4
 seaborn
 matplotlib
 folium
